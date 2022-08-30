@@ -45,6 +45,6 @@ public class Program {
 	}
 	
 	private static void showReport(Department dept) {
-		System.out.println(dept.toString());
+		System.out.println(dept);
 	}
 }
